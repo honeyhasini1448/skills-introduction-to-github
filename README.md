@@ -1,5 +1,8 @@
 <header>
+  
 # This is my first time using github actually i started learning long time ago but not clarified how to use now i am determined to start and learn confidently by using
+Hello I am Hasini Madasu Desi Andra Girl, I am currently pursuing engineering 1st year in CSE department, I am tech enthusiast, I love to explore and learn different skills 
+
 
 <!--
   <<< Author notes: Course header >>>
